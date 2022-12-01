@@ -2,7 +2,7 @@
 
 ## O caminho das pedras para entrar no universo da programação e começar com a criação de sites utilizando as linguagens populares CSS, HTML e JavaScript.
 
-**1. Aprender lógica de programação**
+**[1. Aprender lógica de programação](./01%20-%20Aprender%20l%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/)**
 
 A lógica de programaçõa nada mais é do que uma sequência de passos para resolver um problema. Quem vai resolver o problema, neste caso, é o computador, baseado nas intruções que passamos para ele. Para isso é necessário sabermos quais tipos de instruções o computador entende e qual a melhor forma de passarmos os comandos para nos comunicarmos com ele.
 
